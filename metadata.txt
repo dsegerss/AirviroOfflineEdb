@@ -1,0 +1,39 @@
+# This file contains metadata for your plugin. Since 
+# version 2.0 of QGIS this is the proper way to supply 
+# information about a plugin. The old method of 
+# embedding metadata in __init__.py will 
+# is no longer supported since version 2.0.
+
+# This file should be included when you package your plugin.# Mandatory items:
+
+[general]
+name=Airviro offline editor
+qgisMinimumVersion=2.6
+description=Editing Airviro emission databases offline
+version=0.1
+author=David Segersson
+email=david.segersson@smhi.se
+
+about=This plugin supports offline editing of Airviro EDBs (Emission DataBases). Data is stored in an spatialite database.
+
+tracker=github bug-tracker
+repository=github repository
+# End of mandatory metadata
+
+# Recommended items:
+
+# Uncomment the following line and add your changelog:
+# changelog=
+
+# Tags are comma separated with spaces allowed
+tags=Airviro
+
+homepage=www.airviro.smhi.se
+category=Database
+icon=icon.png
+# experimental flag
+experimental=True
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
