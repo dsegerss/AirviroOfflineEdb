@@ -1,0 +1,726 @@
+speed 1: 20
+speed 2: 30
+speed 3: 40
+speed 4: 50
+speed 5: 60
+speed 6: 70
+speed 7: 80
+speed 8: 90
+speed 9: 100
+speed 10: 110
+speed 11: 120
+scenario 1: 2007
+scenario 2: 2008
+scenario 3: 2009
+scenario 4: 2010
+scenario 5: 2011
+scenario 6: 2012
+scenario 7: 2013
+scenario 8: 2014
+scenario 9: 2015
+scenario 10: 2016
+temperature 1: -30--28
+temperature 2: -28--26
+temperature 3: -26--24
+temperature 4: -24--22
+temperature 5: -22--20
+temperature 6: -20--18
+temperature 7: -18--16
+temperature 8: -16--14
+temperature 9: -14--12
+temperature 10: -12--10
+temperature 11: -10--8
+temperature 12: -8--6
+temperature 13: -6--4
+temperature 14: -4--2
+temperature 15: -2-0
+temperature 16: 0-2
+temperature 17: 2-4
+temperature 18: 4-6
+temperature 19: 6-8
+temperature 20: 8-10
+temperature 21: 10-12
+temperature 22: 12-14
+temperature 23: 14-16
+temperature 24: 16-18
+temperature 25: 18-20
+temperature 26: 20-22
+temperature 27: 22-24
+temperature 28: 24-26
+temperature 29: 26-28
+temperature 30: 28-30
+Search 1: 0.03168793 ton/year
+Search 2: 0.01157407 kg/day
+Sub 1: 31.557667 g/s
+Sub 2: 2.73785079 kg/day
+Sub 3: 1000 kton/year
+Sub 4: 0.001 kg/year
+Sub 5: 0.000001 g/year
+SubGrp 1: 0.1 ml/l
+SubGrp 2: 0.1 kg/ton
+SubGrpEm 1: 31.557667 g/s
+SubGrpEm 2: 2.73785079 kg/day
+ac.1.kind: 1
+ac.1.entity: SNAP
+ac.1.01.entity: COMBUSTION IN ENERGY AND TRANSFORMATION INDUS
+ac.1.01.01.entity: Public power
+ac.1.01.01.00.entity: Public power
+ac.1.01.01.01.entity: Combustion plants >= 300 MW (boilers)
+ac.1.01.01.02.entity: Combustion plants >= 50 and < 300 MW (boilers)
+ac.1.01.01.03.entity: Combustion plants < 50 MW (boilers)
+ac.1.01.01.04.entity: Gas turbines
+ac.1.01.01.05.entity: Stationary engines
+ac.1.01.02.entity: District heating plants
+ac.1.01.02.00.entity: District heating plants
+ac.1.01.02.01.entity: Combustion plants >= 300 MW (boilers)
+ac.1.01.02.02.entity: Combustion plants >= 50 and < 300 MW (boilers)
+ac.1.01.02.03.entity: Combustion plants < 50 MW (boilers)
+ac.1.01.02.04.entity: Gas turbines
+ac.1.01.02.05.entity: Stationary engines
+ac.1.01.03.entity: Petroleum refining plants
+ac.1.01.03.00.entity: Petroleum refining plants
+ac.1.01.03.01.entity: Combustion plants >= 300 MW (boilers)
+ac.1.01.03.02.entity: Combustion plants >= 50 and < 300 MW (boilers)
+ac.1.01.03.03.entity: Combustion plants < 50 MW (boilers)
+ac.1.01.03.04.entity: Gas turbines
+ac.1.01.03.05.entity: Stationary engines
+ac.1.01.03.06.entity: Process furnaces
+ac.1.01.04.entity: Solid fuel transformation plants
+ac.1.01.04.00.entity: Solid fuel transformation plants
+ac.1.01.04.01.entity: Combustion plants >= 300 MW (boilers)
+ac.1.01.04.02.entity: Combustion plants >= 50 and < 300 MW (boilers)
+ac.1.01.04.03.entity: Combustion plants < 50 MW (boilers)
+ac.1.01.04.04.entity: Gas turbines
+ac.1.01.04.05.entity: Stationary engines
+ac.1.01.04.06.entity: Coke oven furnaces
+ac.1.01.04.07.entity: Other (coal gasification, liquefaction,...)
+ac.1.01.05.entity: Coal mining, oil / gas extraction, pipeline c
+ac.1.01.05.00.entity: Coal mining, oil / gas extraction, pipeline c
+ac.1.01.05.01.entity: Combustion plants >= 300 MW (boilers)
+ac.1.01.05.02.entity: Combustion plants >= 50 and < 300 MW (boilers)
+ac.1.01.05.03.entity: Combustion plants < 50 MW (boilers)
+ac.1.01.05.04.entity: Gas turbines
+ac.1.01.05.05.entity: Stationary engines
+ac.1.01.05.06.entity: Pipeline compressors
+ac.1.02.entity: NON-INDUSTRIAL COMBUSTION PLANTS
+ac.1.02.01.entity: Commercial and institutional plants (t)
+ac.1.02.01.00.entity: Commercial and institutional plants (t)
+ac.1.02.01.01.entity: Combustion plants >= 300 MW (boilers)
+ac.1.02.01.02.entity: Combustion plants >= 50 and < 300 MW (boilers)
+ac.1.02.01.03.entity: Combustion plants < 50 MW (boilers)
+ac.1.02.01.04.entity: Stationary gas turbines
+ac.1.02.01.05.entity: Stationary engines
+ac.1.02.01.06.entity: Other stationary equipments (n)
+ac.1.02.02.entity: Residential plants
+ac.1.02.02.00.entity: Residential plants
+ac.1.02.02.01.entity: Combustion plants >= 50 MW (boilers)
+ac.1.02.02.02.entity: Combustion plants < 50 MW (boilers)
+ac.1.02.02.03.entity: Gas turbines
+ac.1.02.02.04.entity: Stationary engines
+ac.1.02.02.05.entity: Other equipments (stoves, fireplaces,cooking,...)
+ac.1.02.03.entity: Plants in agriculture, forestry and aquacultu
+ac.1.02.03.00.entity: Plants in agriculture, forestry and aquacultu
+ac.1.02.03.01.entity: Combustion plants >= 50 MW (boilers)
+ac.1.02.03.02.entity: Combustion plants < 50 MW (boilers)
+ac.1.02.03.03.entity: Stationary gas turbines
+ac.1.02.03.04.entity: Stationary engines
+ac.1.02.03.05.entity: Other stationary equipments (n)
+ac.1.03.entity: COMBUSTION IN MANUFACTURING INDUSTRY
+ac.1.03.01.entity: Comb. in boilers, gas turbines and stationary
+ac.1.03.01.00.entity: Comb. in boilers, gas turbines and stationary
+ac.1.03.01.01.entity: Combustion plants >= 300 MW (boilers)
+ac.1.03.01.02.entity: Combustion plants >= 50 and < 300 MW (boilers)
+ac.1.03.01.03.entity: Combustion plants < 50 MW (boilers)
+ac.1.03.01.04.entity: Gas turbines
+ac.1.03.01.05.entity: Stationary engines
+ac.1.03.01.06.entity: Other stationary equipments (n)
+ac.1.03.02.entity: Process furnaces without contact (a)
+ac.1.03.02.00.entity: Process furnaces without contact (a)
+ac.1.03.02.03.entity: Blast furnace cowpers
+ac.1.03.02.04.entity: Plaster furnaces
+ac.1.03.02.05.entity: Other furnaces
+ac.1.03.03.entity: Processes with contact
+ac.1.03.03.00.entity: Processes with contact
+ac.1.03.03.01.entity: Sinter and pelletizing plants
+ac.1.03.03.02.entity: Reheating furnaces steel and iron
+ac.1.03.03.03.entity: Gray iron foundries
+ac.1.03.03.04.entity: Primary lead production
+ac.1.03.03.05.entity: Primary zinc production
+ac.1.03.03.06.entity: Primary copper production
+ac.1.03.03.07.entity: Secondary lead production
+ac.1.03.03.08.entity: Secondary zinc production
+ac.1.03.03.09.entity: Secondary copper production
+ac.1.03.03.10.entity: Secondary aluminium production
+ac.1.03.03.11.entity: Cement (f)
+ac.1.03.03.12.entity: Lime (includ. iron and steel and paper pulp industr.)(f)
+ac.1.03.03.13.entity: Asphalt concrete plants
+ac.1.03.03.14.entity: Flat glass (f)
+ac.1.03.03.15.entity: Container glass (f)
+ac.1.03.03.16.entity: Glass wool (except binding) (f)
+ac.1.03.03.17.entity: Other glass (f)
+ac.1.03.03.18.entity: Mineral wool (except binding)
+ac.1.03.03.19.entity: Bricks and tiles
+ac.1.03.03.20.entity: Fine ceramic materials
+ac.1.03.03.21.entity: Paper-mill industry (drying processes)
+ac.1.03.03.22.entity: Alumina production
+ac.1.03.03.23.entity: Magnesium production (dolomite treatment)
+ac.1.03.03.24.entity: Nickel production (thermal process)
+ac.1.03.03.25.entity: Enamel production
+ac.1.03.03.26.entity: Other
+ac.1.04.entity: PRODUCTION PROCESSES
+ac.1.04.01.entity: Processes in petroleum industries
+ac.1.04.01.00.entity: Processes in petroleum industries
+ac.1.04.01.01.entity: Petroleum products processing
+ac.1.04.01.02.entity: Fluid catalytic cracking - CO boiler
+ac.1.04.01.03.entity: Sulphur recovery plants
+ac.1.04.01.04.entity: Storage and handling of petroleum produc. in refinery
+ac.1.04.01.05.entity: Other
+ac.1.04.02.entity: Processes in iron and steel industries and co
+ac.1.04.02.00.entity: Processes in iron and steel industries and co
+ac.1.04.02.01.entity: Coke oven (door leakage and extinction)
+ac.1.04.02.02.entity: Blast furnace charging
+ac.1.04.02.03.entity: Pig iron tapping
+ac.1.04.02.04.entity: Solid smokeless fuel
+ac.1.04.02.05.entity: Open hearth furnace steel plant
+ac.1.04.02.06.entity: Basic oxygen furnace steel plant
+ac.1.04.02.07.entity: Electric furnace steel plant
+ac.1.04.02.08.entity: Rolling mills
+ac.1.04.02.09.entity: Sinter and pelletizing plant (except comb. 03.03.01)
+ac.1.04.02.10.entity: Other
+ac.1.04.03.entity: Processes in non-ferrous metal industries
+ac.1.04.03.00.entity: Processes in non-ferrous metal industries
+ac.1.04.03.01.entity: Aluminium production (electrolysis)
+ac.1.04.03.02.entity: Ferro alloys
+ac.1.04.03.03.entity: Silicium production
+ac.1.04.03.04.entity: Magnesium production (except 03.03.23)
+ac.1.04.03.05.entity: Nickel production (except 03.03.24)
+ac.1.04.03.06.entity: Allied metal manufacturing
+ac.1.04.03.07.entity: Galvanizing
+ac.1.04.03.08.entity: Electroplating
+ac.1.04.03.09.entity: Other
+ac.1.04.04.entity: Processes in inorganic chemical industries
+ac.1.04.04.00.entity: Processes in inorganic chemical industries
+ac.1.04.04.01.entity: Sulfuric acid
+ac.1.04.04.02.entity: Nitric acid
+ac.1.04.04.03.entity: Ammonia
+ac.1.04.04.04.entity: Ammonium sulphate
+ac.1.04.04.05.entity: Ammonium nitrate
+ac.1.04.04.06.entity: Ammonium phosphate
+ac.1.04.04.07.entity: NPK fertilisers
+ac.1.04.04.08.entity: Urea
+ac.1.04.04.09.entity: Carbon black
+ac.1.04.04.10.entity: Titanium dioxide
+ac.1.04.04.11.entity: Graphite
+ac.1.04.04.12.entity: Calcium carbide production
+ac.1.04.04.13.entity: Chlorine production
+ac.1.04.04.14.entity: Phosphate fertilizers
+ac.1.04.04.15.entity: Storage and handling of inorganic chemical prod. (o)
+ac.1.04.04.16.entity: Other
+ac.1.04.05.entity: Proc. in organic chemical industr. (bulk prod
+ac.1.04.05.00.entity: Proc. in organic chemical industr. (bulk prod
+ac.1.04.05.01.entity: Ethylene
+ac.1.04.05.02.entity: Propylene
+ac.1.04.05.03.entity: 1,2 dichloroethane (except 04.05.05)
+ac.1.04.05.04.entity: Vinylchloride (except 04.05.05)
+ac.1.04.05.05.entity: 1,2 dichloroethane + vinylchloride (balanced process)
+ac.1.04.05.06.entity: Polyethylene Low Density
+ac.1.04.05.07.entity: Polyethylene High Density
+ac.1.04.05.08.entity: Polyvinylchloride
+ac.1.04.05.09.entity: Polypropylene
+ac.1.04.05.10.entity: Styrene
+ac.1.04.05.11.entity: Polystyrene
+ac.1.04.05.12.entity: Styrene butadiene
+ac.1.04.05.13.entity: Styrene-butadiene latex
+ac.1.04.05.14.entity: Styrene-butadiene rubber (SBR)
+ac.1.04.05.15.entity: Acrylonitrile Butadiene Styrene (ABS) resins
+ac.1.04.05.16.entity: Ethylene oxide
+ac.1.04.05.17.entity: Formaldehyde
+ac.1.04.05.18.entity: Ethylbenzene
+ac.1.04.05.19.entity: Phtalic anhydride
+ac.1.04.05.20.entity: Acrylonitrile
+ac.1.04.05.21.entity: Adipic acid
+ac.1.04.05.22.entity: Storage and handling of organic chemical products (o)
+ac.1.04.05.23.entity: Glyoxylic acid
+ac.1.04.05.25.entity: Pesticide production
+ac.1.04.05.26.entity: Production of persistent organic compounds
+ac.1.04.05.27.entity: Other (phytosanitary,...)
+ac.1.04.06.entity: Processes in wood, paper pulp, food, drink an
+ac.1.04.06.00.entity: Processes in wood, paper pulp, food, drink an
+ac.1.04.06.01.entity: Chipboard
+ac.1.04.06.02.entity: Paper pulp (kraft process)
+ac.1.04.06.03.entity: Paper pulp (acid sulfite process)
+ac.1.04.06.04.entity: Paper pulp (Neutral Sulphite Semi-Chemical process)
+ac.1.04.06.05.entity: Bread
+ac.1.04.06.06.entity: Wine
+ac.1.04.06.07.entity: Beer
+ac.1.04.06.08.entity: Spirits
+ac.1.04.06.10.entity: Roof covering with asphalt materials
+ac.1.04.06.11.entity: Road paving with asphalt
+ac.1.04.06.12.entity: Cement (decarbonizing)
+ac.1.04.06.13.entity: Glass (decarbonizing)
+ac.1.04.06.14.entity: Lime (decarbonizing)
+ac.1.04.06.15.entity: Batteries manufacturing
+ac.1.04.06.16.entity: Extraction of mineral ores
+ac.1.04.06.17.entity: Other (including asbestos products manufacturing)
+ac.1.04.06.18.entity: Limestone and dolomite use
+ac.1.04.06.19.entity: Soda ash production and use
+ac.1.04.08.entity: Production of halocarbons and sulphur hexaflu
+ac.1.04.08.00.entity: Production of halocarbons and sulphur hexaflu
+ac.1.04.08.01.entity: Halogenated hydrocarbons production - By-products
+ac.1.04.08.02.entity: Halogenated hydrocarbons production - Fugitive
+ac.1.04.08.03.entity: Halogenated hydrocarbons production - Other
+ac.1.04.08.04.entity: Sulphur hexafluoride production - By-products
+ac.1.04.08.05.entity: Sulphur hexafluoride production - Fugitive
+ac.1.04.08.06.entity: Sulphur hexafluoride production - Other
+ac.1.05.entity: EXTRACTION AND DISTRIBUTION OF FOSSIL FUELS A
+ac.1.05.01.entity: Extraction and 1st treatment of solid fossil
+ac.1.05.01.00.entity: Extraction and 1st treatment of solid fossil
+ac.1.05.01.01.entity: Open cast mining
+ac.1.05.01.02.entity: Underground mining
+ac.1.05.01.03.entity: Storage of solid fuel
+ac.1.05.02.entity: Extraction, 1st treatment and loading of liqu
+ac.1.05.02.00.entity: Extraction, 1st treatment and loading of liqu
+ac.1.05.02.01.entity: Land-based activities
+ac.1.05.02.02.entity: Off-shore activities
+ac.1.05.03.entity: Extraction, 1st treatment and loading of gase
+ac.1.05.03.00.entity: Extraction, 1st treatment and loading of gase
+ac.1.05.03.01.entity: Land-based desulfuration
+ac.1.05.03.02.entity: Land-based activities (other than desulfuration)
+ac.1.05.03.03.entity: Off-shore activities
+ac.1.05.04.entity: Liquid fuel distribution (except gasoline dis
+ac.1.05.04.00.entity: Liquid fuel distribution (except gasoline dis
+ac.1.05.04.01.entity: Marine terminals (tankers, handling and storage)
+ac.1.05.04.02.entity: Other handling and storage (including pipeline) (q)
+ac.1.05.05.entity: Gasoline distribution
+ac.1.05.05.00.entity: Gasoline distribution
+ac.1.05.05.01.entity: Refinery dispatch station
+ac.1.05.05.02.entity: Transport and depots (except 05.05.03)
+ac.1.05.05.03.entity: Service stations (including refuelling of cars)
+ac.1.05.06.entity: Gas distribution networks
+ac.1.05.06.00.entity: Gas distribution networks
+ac.1.05.06.01.entity: Pipelines (q)
+ac.1.05.06.03.entity: Distribution networks
+ac.1.05.07.entity: Geothermal energy extraction
+ac.1.05.07.00.entity: Geothermal energy extraction
+ac.1.06.entity: SOLVENT AND OTHER PRODUCT USE
+ac.1.06.01.entity: Paint application
+ac.1.06.01.00.entity: Paint application
+ac.1.06.01.01.entity: Paint application - manufacture of automobiles
+ac.1.06.01.02.entity: Paint application - car repairing
+ac.1.06.01.03.entity: Paint application - construction and buildings
+ac.1.06.01.04.entity: Paint application - domestic use (except 06.01.07)
+ac.1.06.01.05.entity: Paint application - coil coating
+ac.1.06.01.06.entity: Paint application - boat building
+ac.1.06.01.07.entity: Paint application - wood
+ac.1.06.01.08.entity: Other industrial paint application
+ac.1.06.01.09.entity: Other non industrial paint application
+ac.1.06.02.entity: Degreasing, dry cleaning and electronics
+ac.1.06.02.00.entity: Degreasing, dry cleaning and electronics
+ac.1.06.02.01.entity: Metal degreasing
+ac.1.06.02.02.entity: Dry cleaning
+ac.1.06.02.03.entity: Electronic components manufacturing
+ac.1.06.02.04.entity: Other industrial cleaning
+ac.1.06.03.entity: Chemical products manufacturing or processing
+ac.1.06.03.00.entity: Chemical products manufacturing or processing
+ac.1.06.03.01.entity: Polyester processing
+ac.1.06.03.02.entity: Polyvinylchloride processing
+ac.1.06.03.03.entity: Polyurethane processing
+ac.1.06.03.04.entity: Polystyrene foam processing (c)
+ac.1.06.03.05.entity: Rubber processing
+ac.1.06.03.06.entity: Pharmaceutical products manufacturing
+ac.1.06.03.07.entity: Paints manufacturing
+ac.1.06.03.08.entity: Inks manufacturing
+ac.1.06.03.09.entity: Glues manufacturing
+ac.1.06.03.10.entity: Asphalt blowing
+ac.1.06.03.11.entity: Adhesive, magnetic tapes, films and photographs
+ac.1.06.03.12.entity: Textile finishing
+ac.1.06.03.13.entity: Leather tanning
+ac.1.06.03.14.entity: Other
+ac.1.06.04.entity: Other use of solvents and related activities
+ac.1.06.04.00.entity: Other use of solvents and related activities
+ac.1.06.04.01.entity: Glass wool enduction
+ac.1.06.04.02.entity: Mineral wool enduction
+ac.1.06.04.03.entity: Printing industry
+ac.1.06.04.04.entity: Fat, edible and non edible oil extraction
+ac.1.06.04.05.entity: Application of glues and adhesives
+ac.1.06.04.06.entity: Preservation of wood
+ac.1.06.04.07.entity: Underseal treatment and conservation of vehicles
+ac.1.06.04.08.entity: Domestic solvent use (other than paint application)(k)
+ac.1.06.04.09.entity: Vehicles dewaxing
+ac.1.06.04.11.entity: Domestic use of pharmaceutical products (k)
+ac.1.06.04.12.entity: Other (preservation of seeds,...)
+ac.1.06.05.entity: Use of HFC, N2O, NH3, PFC and SF6
+ac.1.06.05.00.entity: Use of HFC, N2O, NH3, PFC and SF6
+ac.1.06.05.01.entity: Anaesthesia
+ac.1.06.05.02.entity: Refrigeration and air conditioning equipments
+ac.1.06.05.03.entity: Refrigeration and air conditioning equipments
+ac.1.06.05.04.entity: Foam blowing (except 060304)
+ac.1.06.05.05.entity: Fire extinguishers
+ac.1.06.05.06.entity: Aerosol cans
+ac.1.06.05.07.entity: Electrical equipments
+ac.1.06.05.08.entity: Other
+ac.1.07.entity: ROAD TRANSPORT
+ac.1.07.01.entity: Passenger cars (r)
+ac.1.07.01.00.entity: Passenger cars (r)
+ac.1.07.01.01.entity: Highway driving
+ac.1.07.01.02.entity: Rural driving
+ac.1.07.01.03.entity: Urban driving
+ac.1.07.02.entity: Light duty vehicles < 3.5 t (r)
+ac.1.07.02.00.entity: Light duty vehicles < 3.5 t (r)
+ac.1.07.02.01.entity: Highway driving
+ac.1.07.02.02.entity: Rural driving
+ac.1.07.02.03.entity: Urban driving
+ac.1.07.03.entity: Heavy duty vehicles > 3.5 t and buses (r)
+ac.1.07.03.00.entity: Heavy duty vehicles > 3.5 t and buses (r)
+ac.1.07.03.01.entity: Highway driving
+ac.1.07.03.02.entity: Rural driving
+ac.1.07.03.03.entity: Urban driving
+ac.1.07.04.entity: Mopeds and Motorcycles < 50 cm3
+ac.1.07.04.00.entity: Mopeds and Motorcycles < 50 cm3
+ac.1.07.05.entity: Motorcycles > 50 cm3
+ac.1.07.05.00.entity: Motorcycles > 50 cm3
+ac.1.07.05.01.entity: Highway driving
+ac.1.07.05.02.entity: Rural driving
+ac.1.07.05.03.entity: Urban driving
+ac.1.07.06.entity: Gasoline evaporation from vehicles
+ac.1.07.06.00.entity: Gasoline evaporation from vehicles
+ac.1.07.07.entity: Automobile tyre and brake wear
+ac.1.07.07.00.entity: Automobile tyre and brake wear
+ac.1.08.entity: OTHER MOBILE SOURCES AND MACHINERY
+ac.1.08.01.entity: Military
+ac.1.08.01.00.entity: Military
+ac.1.08.02.entity: Railways
+ac.1.08.02.00.entity: Railways
+ac.1.08.02.01.entity: Shunting locs
+ac.1.08.02.02.entity: Rail-cars
+ac.1.08.02.03.entity: Locomotives
+ac.1.08.03.entity: Inland waterways
+ac.1.08.03.00.entity: Inland waterways
+ac.1.08.03.01.entity: Sailing boats with auxilliary engines
+ac.1.08.03.02.entity: Motorboats / workboats
+ac.1.08.03.03.entity: Personal watercraft
+ac.1.08.03.04.entity: Inland goods carrying vessels
+ac.1.08.04.entity: Maritime activities
+ac.1.08.04.00.entity: Maritime activities
+ac.1.08.04.02.entity: National sea traffic within EMEP area
+ac.1.08.04.03.entity: National fishing
+ac.1.08.04.04.entity: International sea traffic (international bunkers)(h)
+ac.1.08.05.entity: Air traffic
+ac.1.08.05.00.entity: Air traffic
+ac.1.08.05.01.entity: Domestic airport traffic (LTO cycles - <1000 m)
+ac.1.08.05.02.entity: International airport traffic (LTO cycles - <1000 m)
+ac.1.08.05.03.entity: Domestic cruise traffic (>1000 m)
+ac.1.08.05.04.entity: International cruise traffic (>1000 m)(i)
+ac.1.08.06.entity: Agriculture
+ac.1.08.06.00.entity: Agriculture
+ac.1.08.07.entity: Forestry
+ac.1.08.07.00.entity: Forestry
+ac.1.08.08.entity: Industry
+ac.1.08.08.00.entity: Industry
+ac.1.08.09.entity: Household and gardening
+ac.1.08.09.00.entity: Household and gardening
+ac.1.08.10.entity: Other off-road
+ac.1.08.10.00.entity: Other off-road
+ac.1.09.entity: WASTE TREATMENT AND DISPOSAL
+ac.1.09.02.entity: Waste incineration
+ac.1.09.02.00.entity: Waste incineration
+ac.1.09.02.01.entity: Incineration of domestic or municipal wastes
+ac.1.09.02.02.entity: Incineration of industrial wastes (except flaring)
+ac.1.09.02.03.entity: Flaring in oil refinery
+ac.1.09.02.04.entity: Flaring in chemical industries
+ac.1.09.02.05.entity: Incineration of sludges from waste water treatment
+ac.1.09.02.06.entity: Flaring in gas and oil extraction
+ac.1.09.02.07.entity: Incineration of hospital wastes
+ac.1.09.02.08.entity: Incineration of waste oil
+ac.1.09.04.entity: Solid Waste Disposal on Land
+ac.1.09.04.00.entity: Solid Waste Disposal on Land
+ac.1.09.04.01.entity: Managed Waste Disposal on Land
+ac.1.09.04.02.entity: Unmanaged Waste Disposal Sites
+ac.1.09.04.03.entity: Other
+ac.1.09.07.entity: Open burning of agricultural wastes (except 1
+ac.1.09.07.00.entity: Open burning of agricultural wastes (except 1
+ac.1.09.09.entity: Cremation
+ac.1.09.09.00.entity: Cremation
+ac.1.09.09.01.entity: Incineration of corpses
+ac.1.09.09.02.entity: Incineration of carcasses
+ac.1.09.10.entity: Other waste treatment
+ac.1.09.10.00.entity: Other waste treatment
+ac.1.09.10.01.entity: Waste water treatment in industry
+ac.1.09.10.02.entity: Waste water treatment in residential/commercial sect.
+ac.1.09.10.03.entity: Sludge spreading
+ac.1.09.10.05.entity: Compost production
+ac.1.09.10.06.entity: Biogas production
+ac.1.09.10.07.entity: Latrines
+ac.1.09.10.08.entity: Other production of fuel (refuse derived fuel,...)
+ac.1.10.entity: AGRICULTURE
+ac.1.10.01.entity: Cultures with fertilizers
+ac.1.10.01.00.entity: Cultures with fertilizers
+ac.1.10.01.01.entity: Permanent crops
+ac.1.10.01.02.entity: Arable land crops
+ac.1.10.01.03.entity: Rice field
+ac.1.10.01.04.entity: Market gardening
+ac.1.10.01.05.entity: Grassland
+ac.1.10.01.06.entity: Fallows
+ac.1.10.02.entity: Cultures without fertilizers
+ac.1.10.02.00.entity: Cultures without fertilizers
+ac.1.10.02.01.entity: Permanent crops
+ac.1.10.02.02.entity: Arable land crops
+ac.1.10.02.03.entity: Rice field
+ac.1.10.02.04.entity: Market gardening
+ac.1.10.02.05.entity: Grassland
+ac.1.10.02.06.entity: Fallows
+ac.1.10.03.entity: On-field burning of stubble, straw,...
+ac.1.10.03.00.entity: On-field burning of stubble, straw,...
+ac.1.10.03.01.entity: Cereals
+ac.1.10.03.02.entity: Pulse
+ac.1.10.03.03.entity: Tuber and Root
+ac.1.10.03.04.entity: Sugar Cane
+ac.1.10.03.05.entity: Other
+ac.1.10.04.entity: Enteric fermentation
+ac.1.10.04.00.entity: Enteric fermentation
+ac.1.10.04.01.entity: Dairy cows
+ac.1.10.04.02.entity: Other cattle
+ac.1.10.04.03.entity: Ovines
+ac.1.10.04.04.entity: Fattening pigs
+ac.1.10.04.05.entity: Horses
+ac.1.10.04.06.entity: Mules and asses
+ac.1.10.04.07.entity: Goats
+ac.1.10.04.08.entity: Laying hens
+ac.1.10.04.09.entity: Broilers
+ac.1.10.04.10.entity: Other poultry (ducks,gooses,etc.)
+ac.1.10.04.11.entity: Fur animals
+ac.1.10.04.12.entity: Sows
+ac.1.10.04.13.entity: Camels
+ac.1.10.04.14.entity: Buffalo
+ac.1.10.04.15.entity: Other
+ac.1.10.05.entity: Manure management regarding organic compounds
+ac.1.10.05.00.entity: Manure management regarding organic compounds
+ac.1.10.05.01.entity: Dairy cows
+ac.1.10.05.02.entity: Other cattle
+ac.1.10.05.03.entity: Fattening pigs
+ac.1.10.05.04.entity: Sows
+ac.1.10.05.05.entity: Ovines
+ac.1.10.05.06.entity: Horses
+ac.1.10.05.07.entity: Laying hens
+ac.1.10.05.08.entity: Broilers
+ac.1.10.05.09.entity: Other poultry (ducks,gooses,etc.)
+ac.1.10.05.10.entity: Fur animals
+ac.1.10.05.11.entity: Goats
+ac.1.10.05.12.entity: Mules and asses
+ac.1.10.05.13.entity: Camels
+ac.1.10.05.14.entity: Buffalo
+ac.1.10.05.15.entity: Other
+ac.1.10.06.entity: Use of pesticides and limestone
+ac.1.10.06.00.entity: Use of pesticides and limestone
+ac.1.10.06.01.entity: Agriculture
+ac.1.10.06.02.entity: Forestry
+ac.1.10.06.03.entity: Market gardening
+ac.1.10.06.04.entity: Lakes
+ac.1.10.09.entity: Manure management regarding nitrogen compound
+ac.1.10.09.00.entity: Manure management regarding Nitrogen compounds
+ac.1.10.09.01.entity: Agriculture-Manure management/Cattle/Dairy
+ac.1.10.09.02.entity: Agriculture-Manure management/Cattle/Non-dairy
+ac.1.10.09.03.entity: Agriculture-Manure management/Swine
+ac.1.10.09.04.entity: Agriculture-Manure management/Swine
+ac.1.10.09.05.entity: Agriculture-Manure management/Sheep
+ac.1.10.09.06.entity: Agriculture-Manure management/Horses
+ac.1.10.09.07.entity: Agriculture-Manure management/Poultry
+ac.1.10.09.08.entity: Agriculture-Manure management/Poultry
+ac.1.10.09.09.entity: Agriculture-Manure management/Poultry
+ac.1.10.09.10.entity: Agriculture-Manure management/Other
+ac.1.10.09.11.entity: Agriculture-Manure management/Goats
+ac.1.10.09.12.entity: Agriculture-Manure management/Mules and asses
+ac.1.10.09.13.entity: Agriculture-Manure management/Camels and llamas
+ac.1.10.09.14.entity: Agriculture-Manure management/Buffalo
+ac.1.10.09.15.entity: Agriculture-Manure management/Other
+ac.1.11.entity: OTHER SOURCES AND SINKS
+ac.1.11.01.entity: Non-managed broadleaf forests
+ac.1.11.01.00.entity: Non-managed broadleaf forests
+ac.1.11.01.04.entity: European oak
+ac.1.11.01.05.entity: Sessile oak
+ac.1.11.01.06.entity: Other deciduous oaks
+ac.1.11.01.07.entity: Holm oak
+ac.1.11.01.08.entity: Cork oak
+ac.1.11.01.09.entity: Other evergreen oaks
+ac.1.11.01.10.entity: Beech
+ac.1.11.01.11.entity: Birch
+ac.1.11.01.15.entity: Other deciduous broadleaf species
+ac.1.11.01.16.entity: Other evergreen broadleaf species
+ac.1.11.01.17.entity: Soils (excluding CO2)
+ac.1.11.02.entity: Non-managed coniferous forests
+ac.1.11.02.00.entity: Non-managed coniferous forests
+ac.1.11.02.04.entity: Norway spruce
+ac.1.11.02.05.entity: Sitca spruce
+ac.1.11.02.06.entity: Other spruce
+ac.1.11.02.07.entity: Scots pine
+ac.1.11.02.08.entity: Maritime pine
+ac.1.11.02.09.entity: Aleppo pine
+ac.1.11.02.10.entity: Other pines
+ac.1.11.02.11.entity: Fir
+ac.1.11.02.12.entity: Larch
+ac.1.11.02.15.entity: Other conifers
+ac.1.11.02.16.entity: Soils (excluding CO2)
+ac.1.11.03.entity: Forest and other vegetation fires
+ac.1.11.03.00.entity: Forest and other vegetation fires
+ac.1.11.03.01.entity: Man-induced
+ac.1.11.03.02.entity: Other
+ac.1.11.04.entity: Natural grassland and other vegetation
+ac.1.11.04.00.entity: Natural grassland and other vegetation
+ac.1.11.04.01.entity: Grassland
+ac.1.11.04.02.entity: Tundra
+ac.1.11.04.03.entity: Other low vegetation
+ac.1.11.04.04.entity: Other vegetation (Mediterranean scrub,...)
+ac.1.11.04.05.entity: Soils (excluding CO2)
+ac.1.11.05.entity: Wetlands (marshes - swamps)
+ac.1.11.05.00.entity: Wetlands (marshes - swamps)
+ac.1.11.05.01.entity: Undrained and brackish marshes
+ac.1.11.05.02.entity: Drained marshes
+ac.1.11.05.03.entity: Bogs
+ac.1.11.05.04.entity: Fens
+ac.1.11.05.05.entity: Swamps
+ac.1.11.05.06.entity: Floodplains
+ac.1.11.06.entity: Waters
+ac.1.11.06.00.entity: Waters
+ac.1.11.06.01.entity: Lakes
+ac.1.11.06.02.entity: Shallow saltwaters (<6m)
+ac.1.11.06.03.entity: Ground waters
+ac.1.11.06.04.entity: Drainage waters
+ac.1.11.06.05.entity: Rivers
+ac.1.11.06.06.entity: Ditches and canals
+ac.1.11.06.07.entity: Coastal waters (> 6m)
+ac.1.11.07.entity: Animals
+ac.1.11.07.00.entity: Animals
+ac.1.11.07.01.entity: Termites
+ac.1.11.07.02.entity: Mammals
+ac.1.11.07.03.entity: Other animals
+ac.1.11.08.entity: Volcanoes
+ac.1.11.08.00.entity: Volcanoes
+ac.1.11.09.entity: Gas seeps
+ac.1.11.09.00.entity: Gas seeps
+ac.1.11.10.entity: Lightning
+ac.1.11.10.00.entity: Lightning
+ac.1.11.11.entity: Managed broadleaf forests
+ac.1.11.11.00.entity: Managed broadleaf forests
+ac.1.11.11.04.entity: European oak
+ac.1.11.11.05.entity: Sessile oak
+ac.1.11.11.06.entity: Other deciduous oaks
+ac.1.11.11.07.entity: Holm oak
+ac.1.11.11.08.entity: Cork oak
+ac.1.11.11.09.entity: Other evergreen oaks
+ac.1.11.11.10.entity: Beech
+ac.1.11.11.11.entity: Birch
+ac.1.11.11.15.entity: Other deciduous broadleaf species
+ac.1.11.11.16.entity: Other evergreen broadleaf species
+ac.1.11.11.17.entity: Soils (excluding CO2)
+ac.1.11.12.entity: Managed coniferous forests
+ac.1.11.12.00.entity: Managed coniferous forests
+ac.1.11.12.04.entity: Norway spruce
+ac.1.11.12.05.entity: Sitca spruce
+ac.1.11.12.06.entity: Other spruce
+ac.1.11.12.07.entity: Scots pine
+ac.1.11.12.08.entity: Maritime pine
+ac.1.11.12.09.entity: Aleppo pine
+ac.1.11.12.10.entity: Other pines
+ac.1.11.12.11.entity: Fir
+ac.1.11.12.12.entity: Larch
+ac.1.11.12.15.entity: Other conifers
+ac.1.11.12.16.entity: Soils (excluding CO2)
+ac.1.11.21.entity: Changes in forest and other woody biomass sto
+ac.1.11.21.00.entity: Changes in forest and other woody biomass sto
+ac.1.11.21.01.entity: Tropical forests
+ac.1.11.21.02.entity: Temperate forests
+ac.1.11.21.03.entity: Boreal forests
+ac.1.11.21.04.entity: Grassland / tundra
+ac.1.11.21.05.entity: Other
+ac.1.11.22.entity: Forest and grassland conversion
+ac.1.11.22.00.entity: Forest and grassland conversion
+ac.1.11.22.01.entity: Tropical forests
+ac.1.11.22.02.entity: Temperate forests
+ac.1.11.22.03.entity: Boreal forests
+ac.1.11.22.04.entity: Grassland / tundra
+ac.1.11.22.05.entity: Other
+ac.1.11.23.entity: Abandonment of managed lands
+ac.1.11.23.00.entity: Abandonment of managed lands
+ac.1.11.23.01.entity: Tropical forests
+ac.1.11.23.02.entity: Temperate forests
+ac.1.11.23.03.entity: Boreal forests
+ac.1.11.23.04.entity: Grassland / tundra
+ac.1.11.23.05.entity: Other
+ac.1.11.24.entity: CO2 emissions from / or removals into soils
+ac.1.11.24.00.entity: CO2 emissions from / or removals into soils
+ac.1.11.25.entity: Other
+ac.1.11.25.00.entity: Other
+gc.1.entity: PI
+gc.1.EE.entity: Sweden
+gc.1.EE.E.entity: Sweden
+gc.1.EE.E.L.entity: Sweden land
+gc.1.EE.E.L.0.entity: Skane
+gc.1.EE.E.L.1.entity: Smaland
+gc.1.EE.E.L.2.entity: Halland
+gc.1.EE.E.L.3.entity: Blekinge
+gc.1.EE.E.L.4.entity: Bohuslan
+gc.1.EE.E.L.5.entity: Ostergotland
+gc.1.EE.E.L.6.entity: Varmland
+gc.1.EE.E.L.7.entity: Dalarna
+gc.1.EE.E.L.8.entity: Dalsland
+gc.1.EE.E.L.9.entity: Uppland
+gc.1.EE.E.L.A.entity: Vastmanland
+gc.1.EE.E.L.B.entity: Sormland
+gc.1.EE.E.L.C.entity: Norrbotten
+gc.1.EE.E.L.D.entity: Vasterbotten
+gc.1.EE.E.L.E.entity: Vastergotland
+gc.1.EE.E.W.entity: Sweden Water
+gc.1.EE.E.W.0.entity: Sweden Water
+Noise.LogConstant: 10
+Noise.Constant: 44.2
+Noise.LogAver: 0
+Noise.Unit: dba
+Noise.Factor.1.Name: Speed
+Noise.Factor.1.Table.1: Speed,63.67,63.95,64.88,66.00,67.15,68.27,69.34,70.36,71.33,72.24,73.10
+Noise.Factor.2.Name: HGV%
+Noise.Factor.2.Table.1: HGV 0%,-68.80,-68.80,-68.80,-68.80,-68.80,-68.80,-68.80,-68.80,-68.80,-68.80,-68.80
+Noise.Factor.2.Table.2: HGV 1%,-67.83,-68.13,-68.29,-68.39,-68.45,-68.50,-68.54,-68.57,-68.59,-68.61,-68.62
+Noise.Factor.2.Table.3: HGV 2%,-67.04,-67.55,-67.83,-68.01,-68.13,-68.22,-68.29,-68.34,-68.39,-68.42,-68.45
+Noise.Factor.2.Table.4: HGV 3%,-66.37,-67.04,-67.42,-67.66,-67.83,-67.96,-68.05,-68.13,-68.19,-68.24,-68.29
+Noise.Factor.2.Table.5: HGV 4%,-65.79,-66.58,-67.04,-67.34,-67.55,-67.71,-67.83,-67.93,-68.01,-68.07,-68.13
+Noise.Factor.2.Table.6: HGV 5%,-65.28,-66.17,-66.69,-67.04,-67.29,-67.47,-67.62,-67.74,-67.83,-67.91,-67.98
+Noise.Factor.2.Table.7: HGV 6%,-64.82,-65.79,-66.37,-66.76,-67.04,-67.25,-67.42,-67.55,-67.66,-67.75,-67.83
+Noise.Factor.2.Table.8: HGV 7%,-64.41,-65.44,-66.07,-66.50,-66.80,-67.04,-67.22,-67.37,-67.50,-67.60,-67.69
+Noise.Factor.2.Table.9: HGV 8%,-64.03,-65.12,-65.79,-66.25,-66.58,-66.84,-67.04,-67.20,-67.34,-67.45,-67.55
+Noise.Factor.2.Table.10: HGV 9%,-63.68,-64.82,-65.53,-66.01,-66.37,-66.64,-66.86,-67.04,-67.19,-67.31,-67.42
+Noise.Factor.2.Table.11: HGV 10%,-63.36,-64.54,-65.28,-65.79,-66.17,-66.46,-66.69,-66.88,-67.04,-67.17,-67.29
+Noise.Factor.2.Table.12: HGV 12%,-62.78,-64.03,-64.82,-65.38,-65.79,-66.11,-66.37,-66.58,-66.76,-66.91,-67.04
+Noise.Factor.2.Table.13: HGV 14%,-62.27,-63.57,-64.41,-65.00,-65.44,-65.79,-66.07,-66.30,-66.50,-66.66,-66.80
+Noise.Factor.2.Table.14: HGV 16%,-61.81,-63.16,-64.03,-64.65,-65.12,-65.49,-65.79,-66.04,-66.25,-66.43,-66.58
+Noise.Factor.2.Table.15: HGV 20%,-61.02,-62.43,-63.36,-64.03,-64.54,-64.95,-65.28,-65.55,-65.79,-65.99,-66.17
+Noise.Factor.2.Table.16: HGV 25%,-60.20,-61.67,-62.65,-63.36,-63.91,-64.35,-64.71,-65.02,-65.28,-65.50,-65.70
+Noise.Factor.2.Table.17: HGV 30%,-59.51,-61.02,-62.03,-62.78,-63.36,-63.83,-64.21,-64.54,-64.82,-65.06,-65.28
+Noise.Factor.2.Table.18: HGV 35%,-58.91,-60.45,-61.50,-62.27,-62.87,-63.36,-63.77,-64.11,-64.41,-64.67,-64.89
+Noise.Factor.2.Table.19: HGV 40%,-58.39,-59.95,-61.02,-61.81,-62.43,-62.94,-63.36,-63.72,-64.03,-64.30,-64.54
+Noise.Factor.3.Name: Gradient
+Noise.Factor.3.Table.1: Gradient 0%,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Noise.Factor.3.Table.2: Gradient 1%,0.30,0.30,0.30,0.30,0.30,0.30,0.30,0.30,0.30,0.30,0.30
+Noise.Factor.3.Table.3: Gradient 2%,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60,0.60
+Noise.Factor.3.Table.4: Gradient 3%,0.90,0.90,0.90,0.90,0.90,0.90,0.90,0.90,0.90,0.90,0.90
+Noise.Factor.3.Table.5: Gradient 4%,1.20,1.20,1.20,1.20,1.20,1.20,1.20,1.20,1.20,1.20,1.20
+Noise.Factor.3.Table.6: Gradient 5%,1.50,1.50,1.50,1.50,1.50,1.50,1.50,1.50,1.50,1.50,1.50
+Noise.Factor.3.Table.7: Gradient 6%,1.80,1.80,1.80,1.80,1.80,1.80,1.80,1.80,1.80,1.80,1.80
+Noise.Factor.3.Table.8: Gradient 7%,2.10,2.10,2.10,2.10,2.10,2.10,2.10,2.10,2.10,2.10,2.10
+Noise.Factor.3.Table.9: Gradient 8%,2.40,2.40,2.40,2.40,2.40,2.40,2.40,2.40,2.40,2.40,2.40
+Noise.Factor.3.Table.10: Gradient 9%,2.70,2.70,2.70,2.70,2.70,2.70,2.70,2.70,2.70,2.70,2.70
+Noise.Factor.3.Table.11: Gradient 10%,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00,3.00
+Noise.Factor.3.Table.12: Gradient 12%,3.60,3.60,3.60,3.60,3.60,3.60,3.60,3.60,3.60,3.60,3.60
+Noise.Factor.3.Table.13: Gradient 14%,4.20,4.20,4.20,4.20,4.20,4.20,4.20,4.20,4.20,4.20,4.20
+Noise.Factor.3.Table.14: Gradient 16%,4.80,4.80,4.80,4.80,4.80,4.80,4.80,4.80,4.80,4.80,4.80
+Noise.Factor.3.Table.15: Gradient 20%,6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00,6.00
+Noise.Factor.3.Table.16: Gradient 25%,7.50,7.50,7.50,7.50,7.50,7.50,7.50,7.50,7.50,7.50,7.50
+Noise.Factor.3.Table.17: Gradient 30%,9.00,9.00,9.00,9.00,9.00,9.00,9.00,9.00,9.00,9.00,9.00
+Noise.Factor.3.Table.18: Gradient 35%,10.50,10.50,10.50,10.50,10.50,10.50,10.50,10.50,10.50,10.50,10.50
+Noise.Factor.4.Name: Surface
+Noise.Factor.4.Table.1: Bitumen - Smooth,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00,-0.97,0.97,-0.97,-0.97,0.97
+Noise.Factor.4.Table.2: Bitumen - Medium,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00,-0.46,-0.46,-0.46,-0.46,-0.46
+Noise.Factor.4.Table.3: Bitumen - Rough,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00,0.00,0.00,0.00,0.00,0.00
+Noise.Factor.4.Table.4: Concrete - Smooth,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00,0.79,0.79,0.79,0.79,0.79
+Noise.Factor.4.Table.5: Concrete - Medium,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00,2.17,2.17,2.17,2.17,2.17
+Noise.Factor.4.Table.6: Concrete - Rough,-1.00,-1.00,-1.00,-1.00,-1.00,-1.00,3.22,3.22,3.22,3.22,3.22
+Noise.Factor.4.Table.7: Porous Asphalt,-3.50,-3.50,-3.50,-3.50,-3.50,-3.50,-3.50,-3.50,-3.50,-3.50,-3.50

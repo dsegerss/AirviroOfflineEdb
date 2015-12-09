@@ -1,0 +1,1572 @@
+X 1243431
+Y 6477510
+NAME "Scanraff"
+COMPANY "1"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "453 81 Lysekil"
+INFOSUPPLIER "lsf/K-G Mattsson"
+MISC "Krackerfackla"
+ALOB 0
+
+X 1262920
+Y 6405070
+NAME "OK RAFFINADERI"
+COMPANY "2"
+INFO ""
+INFO2 ""
+ADDRESS "Box 23037"
+POSTADDRESS "400 73 GŒteborg"
+INFOSUPPLIER "lsf/GŒsta SjŒnell"
+MISC "Fackla"
+ALOB 0
+
+X 1264090
+Y 6406480
+NAME "Volvo Torslanda"
+COMPANY "3"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "405 08 GŒteborg"
+INFOSUPPLIER "lsf/S Johansson"
+MISC "Byggnad TB1/*"
+ALOB 0
+
+X 1264120
+Y 6404110
+NAME "NYNÃS SUPPLY"
+COMPANY "4"
+INFO ""
+INFO2 ""
+ADDRESS "OljevÃgen"
+POSTADDRESS "417 91 GŒteborg"
+INFOSUPPLIER "lsf/BjŒrn Tis≈n"
+MISC "DA-ugnen"
+ALOB 0
+
+X 1264387
+Y 6446734
+NAME "Hydro Plast"
+COMPANY "5"
+INFO ""
+INFO2 ""
+ADDRESS "HjÃlmarevÃgen"
+POSTADDRESS "444 83 Stenungsund"
+INFOSUPPLIER "lsf/Rune Niklasson"
+MISC "–ngpanna 2"
+ALOB 0
+
+X 1265400
+Y 6446940
+NAME "Statoil Petro"
+COMPANY "6"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "444 81 Stenungsund"
+INFOSUPPLIER "lsf/J Andersson"
+MISC "S Skorsten (F-1601)"
+ALOB 0
+
+X 1265509
+Y 6405901
+NAME "Point_2_ExampleAermod"
+COMPANY "8"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "GJS"
+MISC ""
+ALOB 0
+
+X 1265520
+Y 6447450
+NAME "Berol Nobel Sten"
+COMPANY "7"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "444 85 Stenungsund"
+INFOSUPPLIER "lsf/Knut Andr≈n"
+MISC "Destruktionsugn"
+ALOB 0
+
+X 1265648
+Y 6404066
+NAME "Svenska Shell AB"
+COMPANY "10"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER ""
+MISC ""
+ALOB 0
+
+X 1265670
+Y 6405659
+NAME "Point_1_ExampleAermod"
+COMPANY "11"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "Guillermo Silva"
+MISC ""
+ALOB 0
+
+X 1265951
+Y 6404101
+NAME "Shell Raffinad"
+COMPANY "9"
+INFO ""
+INFO2 ""
+ADDRESS "Box 8889"
+POSTADDRESS "402 72 GŒteborg"
+INFOSUPPLIER "lsf/Karin Jansson"
+MISC "Facklan/*"
+ALOB 0
+
+X 1266050
+Y 6398150
+NAME "Panncentr Tynnered"
+COMPANY "12"
+INFO ""
+INFO2 ""
+ADDRESS "L:a Greveg‘rdsv.2"
+POSTADDRESS "421 44 V:a FrŒlunda"
+INFOSUPPLIER "lsf/Paul Johansson"
+MISC ""
+ALOB 0
+
+X 1266290
+Y 6447130
+NAME "Vattenfall Sten"
+COMPANY "13"
+INFO ""
+INFO2 ""
+ADDRESS "KraftverksvÃgen"
+POSTADDRESS "444 87 Stenungsund"
+INFOSUPPLIER "lsf/Kenneth Haglund"
+MISC "Block B1"
+ALOB 0
+
+X 1266410
+Y 6446100
+NAME "Neste Polyeten"
+COMPANY "14"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "444 86 Stenungsund"
+INFOSUPPLIER "lsf/Ulf Gustavson"
+MISC "–ngcentralen"
+ALOB 0
+
+X 1266620
+Y 6445370
+NAME "Stenungs.FjÃrrvÃrme"
+COMPANY "15"
+INFO ""
+INFO2 ""
+ADDRESS "Hantverkargatan 32"
+POSTADDRESS "444 32 Stenungsund"
+INFOSUPPLIER "lsf/Monica Rundin"
+MISC "Pannan"
+ALOB 0
+
+X 1266693
+Y 6403402
+NAME "ENERGIV.RYA_VC_OIL"
+COMPANY "16"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER ""
+MISC ""
+ALOB 0
+
+X 1266700
+Y 6403400
+NAME "ENERGIV. RYA_VC_GAS"
+COMPANY "17"
+INFO ""
+INFO2 ""
+ADDRESS "                   "
+POSTADDRESS "401 20             "
+INFOSUPPLIER "TidestrŒm Birgitta "
+MISC "EnergianlÃggning   "
+ALOB 0
+
+X 1266820
+Y 6405750
+NAME "Volvo Lundby"
+COMPANY "18"
+INFO ""
+INFO2 ""
+ADDRESS "Gropeg‘rdsgatan "
+POSTADDRESS "405 08 GŒteborg"
+INFOSUPPLIER "lsf/Kerstin Sterner"
+MISC "U-byggn.Lastvagnar"
+ALOB 0
+
+X 1266900
+Y 6410460
+NAME "Volvo Tuveverken"
+COMPANY "19"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "405 08 GŒteborg"
+INFOSUPPLIER "lsf/Kerstin Sterner"
+MISC "Energicent.Lastvagn"
+ALOB 0
+
+X 1267630
+Y 6448140
+NAME "Neste Oxo"
+COMPANY "20"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "444 84 Stenungsund"
+INFOSUPPLIER "lsf/Kjell Flodmark"
+MISC "–ngpannor"
+ALOB 0
+
+X 1267727
+Y 6399749
+NAME "BOSTADS AB POSEIDON"
+COMPANY "21"
+INFO ""
+INFO2 ""
+ADDRESS "MusikvÃgen 1       "
+POSTADDRESS "421 44 VÃSTRA FRŒLU"
+INFOSUPPLIER "Johansson Paul     "
+MISC "Panncentral MusikvÃ"
+ALOB 0
+
+X 1267900
+Y 6399770
+NAME "PANNCENTR MUSIKV"
+COMPANY "22"
+INFO ""
+INFO2 ""
+ADDRESS "Box 1"
+POSTADDRESS "424 21 Angered"
+INFOSUPPLIER "lsf/Paul Johansson"
+MISC ""
+ALOB 0
+
+X 1268550
+Y 6399350
+NAME "MARCONICENTRALEN"
+COMPANY "24"
+INFO ""
+INFO2 ""
+ADDRESS "Box 5044"
+POSTADDRESS "402 21 GŒteborg"
+INFOSUPPLIER "lsf/Leif Dahlquist"
+MISC "VÃrmecentral"
+ALOB 0
+
+X 1268600
+Y 6401600
+NAME "GŒTEBORGS STADS BOS"
+COMPANY "23"
+INFO ""
+INFO2 ""
+ADDRESS "N Dragspelsgatan 2 "
+POSTADDRESS "402 21 GŒTEBORG    "
+INFOSUPPLIER "Hansson Fride      "
+MISC "Hetvattencentral   "
+ALOB 0
+
+X 1268650
+Y 6409850
+NAME "Tuve Hetvattencent."
+COMPANY "25"
+INFO ""
+INFO2 ""
+ADDRESS "Box 5044 "
+POSTADDRESS "402 21 GŒteborg"
+INFOSUPPLIER "lsf/Leif Dahlquist"
+MISC "VÃrmecentral"
+ALOB 0
+
+X 1268817
+Y 6399089
+NAME "WALCH CHARKUTERIFAB"
+COMPANY "26"
+INFO ""
+INFO2 ""
+ADDRESS "Bildradiogatan 8   "
+POSTADDRESS "421 34 VÃSTRA FRŒLU"
+INFOSUPPLIER "Walch Helmut      "
+MISC "RŒkeri             "
+ALOB 0
+
+X 1269303
+Y 6404816
+NAME "AGA GAS AB         "
+COMPANY "27"
+INFO ""
+INFO2 ""
+ADDRESS "PolstjÃrnegatan 12 "
+POSTADDRESS "402 72 GŒTEBORG    "
+INFOSUPPLIER "LŒnnqvist Roy      "
+MISC "Verkstad           "
+ALOB 0
+
+X 1269380
+Y 6399541
+NAME "MÃSTER OLOFS CHARKU"
+COMPANY "28"
+INFO ""
+INFO2 ""
+ADDRESS "Olof Asklunds G 20 "
+POSTADDRESS "421 30 VÃSTRA FRŒLU"
+INFOSUPPLIER "             "
+MISC "RŒkeri             "
+ALOB 0
+
+X 1269400
+Y 6398500
+NAME "PRIPPS"
+COMPANY "29"
+INFO ""
+INFO2 ""
+ADDRESS "Box 121"
+POSTADDRESS "421 22 V FrŒlunda"
+INFOSUPPLIER "lsf"
+MISC "Bryggeri/*"
+ALOB 0
+
+X 1269503
+Y 6398963
+NAME "RIBO-VERKEN AB     "
+COMPANY "30"
+INFO ""
+INFO2 ""
+ADDRESS "Britta Sahlgrens G "
+POSTADDRESS "421 02 VÃSTRA FRŒLU"
+INFOSUPPLIER "Lindahl "
+MISC "Verkstad           "
+ALOB 0
+
+X 1270250
+Y 6476100
+NAME "Volvo Uddevalla"
+COMPANY "31"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "451 84 Uddevalla"
+INFOSUPPLIER "lsf/S Johansson"
+MISC "Panna/*"
+ALOB 0
+
+X 1270430
+Y 6397410
+NAME "HEDLUNDS PAPPER"
+COMPANY "32"
+INFO ""
+INFO2 ""
+ADDRESS "Box 100"
+POSTADDRESS "401 21 GŒteborg"
+INFOSUPPLIER "lsf/Chr Tengstrand"
+MISC "Pannan"
+ALOB 0
+
+X 1270490
+Y 6404094
+NAME "ENERGIV. ROSENL.GAS"
+COMPANY "33"
+INFO ""
+INFO2 ""
+ADDRESS "Rosenlundsgatan 2"
+POSTADDRESS "601 20 GŒteborg"
+INFOSUPPLIER ""
+MISC ""
+ALOB 0
+
+X 1270499
+Y 6404090
+NAME "ENERGIV. ROSENL.OIL"
+COMPANY "34"
+INFO ""
+INFO2 ""
+ADDRESS "Rosenlundsgatan 2  "
+POSTADDRESS "401 20 GŒTEBORG    "
+INFOSUPPLIER "TidestrŒm Birgitta "
+MISC "EnergianlÃggning   "
+ALOB 0
+
+X 1270582
+Y 6404108
+NAME "ENERGIV.ROSEN.HP1-5"
+COMPANY "35"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER ""
+MISC ""
+ALOB 0
+
+X 1270767
+Y 6407283
+NAME "WENNERGRENS KITTFAB"
+COMPANY "36"
+INFO ""
+INFO2 ""
+ADDRESS "ArŒds IndustrivÃg 1"
+POSTADDRESS "422 43 HISINGS BACK"
+INFOSUPPLIER "Wennergren Th      "
+MISC "Kittfabrik         "
+ALOB 0
+
+X 1271250
+Y 6423750
+NAME "Volvo Rollsbo"
+COMPANY "37"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "442 40 KungÃlv"
+INFOSUPPLIER "lsf/S Johansson"
+MISC "*"
+ALOB 0
+
+X 1271550
+Y 6405859
+NAME "B A S F SVENSKA AB "
+COMPANY "38"
+INFO ""
+INFO2 ""
+ADDRESS "Stenkolsgatan 5    "
+POSTADDRESS "400 14 GŒTEBORG    "
+INFOSUPPLIER "BjŒrnsson B-‘"
+MISC "Kem-teknik, enbart "
+ALOB 0
+
+X 1271750
+Y 6402500
+NAME "CHALMERS VÃRMEC"
+COMPANY "39"
+INFO ""
+INFO2 ""
+ADDRESS "Chalmers Tekn.HŒgsk"
+POSTADDRESS "412 96 GŒteborg"
+INFOSUPPLIER "lsf/Per LŒveryd"
+MISC "Panna 1"
+ALOB 0
+
+X 1271761
+Y 6402605
+NAME "CHALMERS TEKNISKA H"
+COMPANY "40"
+INFO ""
+INFO2 ""
+ADDRESS "                   "
+POSTADDRESS "412 96 GŒTEBORG    "
+INFOSUPPLIER "LŒveryd Per        "
+MISC "EnergianlÃggning   "
+ALOB 0
+
+X 1272000
+Y 6562890
+NAME "NŒssemarks TrÃ"
+COMPANY "41"
+INFO ""
+INFO2 ""
+ADDRESS "Pl.5256"
+POSTADDRESS "668 00 Ed"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Bark"
+ALOB 0
+
+X 1272018
+Y 6406255
+NAME "GŒTEBORGS TERMOMETE"
+COMPANY "42"
+INFO ""
+INFO2 ""
+ADDRESS "Ring⁄gatan 21      "
+POSTADDRESS "402 72 GŒTEBORG    "
+INFOSUPPLIER "Fardell Guy        "
+MISC "Ingen tillverkning "
+ALOB 0
+
+X 1272300
+Y 6477000
+NAME "Bratt‘sverket"
+COMPANY "43"
+INFO ""
+INFO2 ""
+ADDRESS "Lel‘ngevÃgen"
+POSTADDRESS "451 81 Uddevalla"
+INFOSUPPLIER "lsf/I Oscarsson"
+MISC ""
+ALOB 0
+
+X 1272378
+Y 6405716
+NAME "ALPUS AB           "
+COMPANY "44"
+INFO ""
+INFO2 ""
+ADDRESS "Gullbergs Strandg 3"
+POSTADDRESS "411 04 GŒTEBORG    "
+INFOSUPPLIER "HÃljI P-O         "
+MISC "Verkstad           "
+ALOB 0
+
+X 1272660
+Y 6396900
+NAME "Riskullaverket"
+COMPANY "45"
+INFO ""
+INFO2 ""
+ADDRESS "Aminogatan 21-23"
+POSTADDRESS "431 53 MŒlndal"
+INFOSUPPLIER "lsf/GŒran LundstrŒm"
+MISC "VÃrmecentral"
+ALOB 0
+
+X 1272702
+Y 6404304
+NAME "G‘RDA FABRIKERS AB "
+COMPANY "46"
+INFO ""
+INFO2 ""
+ADDRESS "‘vÃgen 6           "
+POSTADDRESS "401 25 GŒTEBORG    "
+INFOSUPPLIER "Thoren Gunnar      "
+MISC "Fast. Ãgs av N C C,"
+ALOB 0
+
+X 1272750
+Y 6476200
+NAME "Skansverket ARV"
+COMPANY "47"
+INFO ""
+INFO2 ""
+ADDRESS "Gatukontoret"
+POSTADDRESS "451 81 Uddevalla"
+INFOSUPPLIER "lsf/GŒte Fredegren"
+MISC "RŒtgasfŒrbrÃnning"
+ALOB 0
+
+X 1272900
+Y 6402750
+NAME "SAAB VÃXELL‘DSF"
+COMPANY "48"
+INFO ""
+INFO2 ""
+ADDRESS "Box 5042 "
+POSTADDRESS "402 21 GŒteborg"
+INFOSUPPLIER "lsf/Dan Carlqvist"
+MISC "HÃrdprocessen/*"
+ALOB 0
+
+X 1273155
+Y 6409293
+NAME "APOTEKSBOLAGET AB  "
+COMPANY "49"
+INFO ""
+INFO2 ""
+ADDRESS "Importgatan 20     "
+POSTADDRESS "401 20 GŒTEBORG    "
+INFOSUPPLIER "Rahm Gunnar      "
+MISC "LÃkemedel          "
+ALOB 0
+
+X 1273227
+Y 6401605
+NAME "BILFORUM           "
+COMPANY "50"
+INFO ""
+INFO2 ""
+ADDRESS "Grafiska VÃgen 2-6 "
+POSTADDRESS "400 20 GŒTEBORG    "
+INFOSUPPLIER "Bratin TorbjŒrn    "
+MISC "Bilservice, lackeri"
+ALOB 0
+
+X 1273250
+Y 6479200
+NAME "Hovhultsverket"
+COMPANY "51"
+INFO ""
+INFO2 ""
+ADDRESS "HovhultsvÃgen 2"
+POSTADDRESS "451 81 Uddevalla"
+INFOSUPPLIER "lsf/Bo Kvartsberg"
+MISC "VÃrmecentral"
+ALOB 0
+
+X 1273730
+Y 6400380
+NAME "BEROL NOBEL MŒLN"
+COMPANY "52"
+INFO ""
+INFO2 ""
+ADDRESS "–gatan 44"
+POSTADDRESS "431 37 MŒlndal"
+INFOSUPPLIER "lsf/Agneta Holmberg"
+MISC "Hetoljepannan/*"
+ALOB 0
+
+X 1274000
+Y 6399950
+NAME "ERICSSON RADAR"
+COMPANY "53"
+INFO ""
+INFO2 ""
+ADDRESS "Box 1001"
+POSTADDRESS "431 84 MŒlndal"
+INFOSUPPLIER "lsf/Olle JŒnsson"
+MISC "Panncentral,bygg.9"
+ALOB 0
+
+X 1274760
+Y 6398700
+NAME "SOAB"
+COMPANY "54"
+INFO ""
+INFO2 ""
+ADDRESS "Box 55"
+POSTADDRESS "431 21 MŒlndal"
+INFOSUPPLIER "lsf/Bertil Svensson"
+MISC "Hetoljepannor"
+ALOB 0
+
+X 1275000
+Y 6419600
+NAME "Eka Nobel Ale"
+COMPANY "55"
+INFO ""
+INFO2 ""
+ADDRESS "Ale"
+POSTADDRESS "445 01 Surte"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Pannan, Eo4 0.5%"
+ALOB 0
+
+X 1275434
+Y 6406890
+NAME "ENERGIV. SÃVEN.ÃP"
+COMPANY "56"
+INFO ""
+INFO2 ""
+ADDRESS "von Utfallsgatan 3?"
+POSTADDRESS "401 20 GŒTEBORG    "
+INFOSUPPLIER "TidestrŒm Birgitta "
+MISC "EnergianlÃggning   "
+ALOB 0
+
+X 1275436
+Y 6406878
+NAME "ENERGIV.SÃVENÃS HP3"
+COMPANY "57"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER ""
+MISC ""
+ALOB 0
+
+X 1275451
+Y 6406892
+NAME "ENERGIV.SÃV.HVP1/P2"
+COMPANY "58"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER ""
+MISC ""
+ALOB 0
+
+X 1276540
+Y 6406970
+NAME "GRAAB SÃVENÃS"
+COMPANY "59"
+INFO ""
+INFO2 ""
+ADDRESS "Box 95"
+POSTADDRESS "401 21 GŒteborg"
+INFOSUPPLIER "lsf/C-A Pedersen"
+MISC "AvfallsfŒrbrÃnning"
+ALOB 0
+
+X 1277001
+Y 6497501
+NAME "Gunnebo"
+COMPANY "60"
+INFO ""
+INFO2 ""
+ADDRESS "Box 5"
+POSTADDRESS "458 02 ⁄deborg"
+INFOSUPPLIER "lsf/Jonas Edin"
+MISC "Panna, Eo1 0.1%/*"
+ALOB 0
+
+X 1277900
+Y 6427330
+NAME "Axel Christeirnsson"
+COMPANY "61"
+INFO ""
+INFO2 ""
+ADDRESS "Box 19"
+POSTADDRESS "440 41 Nol"
+INFOSUPPLIER "lsf/Bodil Liedman"
+MISC "Panna/*"
+ALOB 0
+
+X 1278500
+Y 6500400
+NAME "FÃrgelanda S‘gverk"
+COMPANY "62"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "458 00 FÃrgelanda"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Bark/S‘gsp‘n"
+ALOB 0
+
+X 1280000
+Y 6410300
+NAME "ANGEREDS VÃRMECENTRUM"
+COMPANY "63"
+INFO ""
+INFO2 ""
+ADDRESS "Box 53"
+POSTADDRESS "401 20 GŒteborg"
+INFOSUPPLIER "lsf/Lena Olofsson"
+MISC "Panna"
+ALOB 0
+
+X 1280250
+Y 6406300
+NAME "BJŒRNDAMMENS HETV."
+COMPANY "64"
+INFO ""
+INFO2 ""
+ADDRESS "Partille Energiverk"
+POSTADDRESS "433 82 Partille"
+INFOSUPPLIER "lsf/Arne Pettersson"
+MISC "VÃrmeverk"
+ALOB 0
+
+X 1280630
+Y 6350080
+NAME "VÃrŒ Bruk"
+COMPANY "65"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/BA"
+MISC "Panna"
+ALOB 0
+
+X 1280800
+Y 6398900
+NAME "MŒLNLYCKE"
+COMPANY "66"
+INFO ""
+INFO2 ""
+ADDRESS "FabriksvÃgen 1"
+POSTADDRESS "435 81 MŒlnlycke"
+INFOSUPPLIER "lsf/C-E Flenner"
+MISC "Panncentralen"
+ALOB 0
+
+X 1282401
+Y 6509601
+NAME "Perstorp Sunwind"
+COMPANY "67"
+INFO ""
+INFO2 ""
+ADDRESS "Box 46"
+POSTADDRESS "450 63 HŒgsÃter"
+INFOSUPPLIER "lsf/U Samuelsson"
+MISC "Panna, Sp‘n/*"
+ALOB 0
+
+X 1282900
+Y 6451800
+NAME "Inland"
+COMPANY "68"
+INFO ""
+INFO2 ""
+ADDRESS "Box 902"
+POSTADDRESS "463 01 Lilla Edet"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna"
+ALOB 0
+
+X 1283200
+Y 6450000
+NAME "MŒlnlycke Tissue"
+COMPANY "69"
+INFO ""
+INFO2 ""
+ADDRESS "Box 901"
+POSTADDRESS "463 01 Lilla Edet"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Pannan/*"
+ALOB 0
+
+X 1284430
+Y 6337000
+NAME "Skandinavisk Elverk"
+COMPANY "70"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/JF"
+MISC "Panna/*"
+ALOB 0
+
+X 1284500
+Y 6337960
+NAME "Gyproc"
+COMPANY "71"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/BT"
+MISC "Panna"
+ALOB 0
+
+X 1291150
+Y 6418250
+NAME "RyanÃs Industri"
+COMPANY "72"
+INFO ""
+INFO2 ""
+ADDRESS "Box 155"
+POSTADDRESS "440 06 Gr‘bo"
+INFOSUPPLIER "lsf/U Samuelsson"
+MISC "Panna, Eo1 0.01%/*"
+ALOB 0
+
+X 1292560
+Y 6355760
+NAME "StrÃngbetong"
+COMPANY "73"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/N-lÃn"
+MISC ""
+ALOB 0
+
+X 1293100
+Y 6464280
+NAME "Lextorp VÃrme"
+COMPANY "74"
+INFO ""
+INFO2 ""
+ADDRESS "Trollh.FjÃrrvÃrme"
+POSTADDRESS "461 83 TrollhÃttan"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Olja 0.8%/*"
+ALOB 0
+
+X 1295270
+Y 6312360
+NAME "Scand. glasfiber"
+COMPANY "75"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/JF"
+MISC "Panna, Gasol 8435t"
+ALOB 0
+
+X 1295370
+Y 6469391
+NAME "Climax Molybdenum"
+COMPANY "76"
+INFO ""
+INFO2 ""
+ADDRESS "Box 906"
+POSTADDRESS "461 29 TrollhÃttan"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC ""
+ALOB 0
+
+X 1295380
+Y 6469570
+NAME "Stallbacka VÃrme"
+COMPANY "77"
+INFO ""
+INFO2 ""
+ADDRESS "Trollh.FjÃrrvÃrme"
+POSTADDRESS "461 83 TrollhÃttan"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Olja 0.8%/*"
+ALOB 0
+
+X 1295500
+Y 6544000
+NAME "Vanern Timber"
+COMPANY "78"
+INFO ""
+INFO2 ""
+ADDRESS "Box 6"
+POSTADDRESS "660 11 Billingsfors"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Bark,flis,sp‘n"
+ALOB 0
+
+X 1295770
+Y 6470000
+NAME "Stallbacka Kraft"
+COMPANY "79"
+INFO ""
+INFO2 ""
+ADDRESS "VÃrmekraftsvÃgen"
+POSTADDRESS "444 87 Stenungsund"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Olja 0.2%/*"
+ALOB 0
+
+X 1296000
+Y 6546100
+NAME "MunksjŒ Paper"
+COMPANY "80"
+INFO ""
+INFO2 ""
+ADDRESS "Box 24"
+POSTADDRESS "660 11 Billingsfors"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Olja,bark & gasol"
+ALOB 0
+
+X 1296011
+Y 6470951
+NAME "Volvo Flygmotor"
+COMPANY "81"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "461 81 TrollhÃttan"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Eo4 0.8%"
+ALOB 0
+
+X 1296140
+Y 6471030
+NAME "SAAB Automobile"
+COMPANY "82"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "461 80 TrollhÃttan"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Eo4 0.8%"
+ALOB 0
+
+X 1296980
+Y 6313130
+NAME "Hannells Industri"
+COMPANY "83"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/JF"
+MISC "Panna, Eo1 0.1%"
+ALOB 0
+
+X 1297500
+Y 6549400
+NAME "Duni AB, Sk‘pafors"
+COMPANY "84"
+INFO ""
+INFO2 ""
+ADDRESS "Sk‘pafors"
+POSTADDRESS "666 01 Bengtsfors"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Gasol,Eo1 & Eo5"
+ALOB 0
+
+X 1297600
+Y 6312350
+NAME "Componenta Inter"
+COMPANY "85"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/MHN"
+MISC ""
+ALOB 0
+
+X 1299470
+Y 6475670
+NAME "VargŒn Alloys"
+COMPANY "87"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "468 00 VargŒn"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Produktionen"
+ALOB 0
+
+X 1299475
+Y 6475260
+NAME "Holmen Paper"
+COMPANY "86"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "468 00 VargŒn"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Holmen Scrubber"
+ALOB 0
+
+X 1299800
+Y 6314000
+NAME "Solleveld Hand.trÃd"
+COMPANY "88"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/MHN"
+MISC ""
+ALOB 0
+
+X 1301040
+Y 6313100
+NAME "Bryggeri AB Falken"
+COMPANY "89"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/LS"
+MISC "Panna,naturgas/*"
+ALOB 0
+
+X 1301250
+Y 6312700
+NAME "Mejeriernas Ost"
+COMPANY "90"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/MHN"
+MISC ""
+ALOB 0
+
+X 1304800
+Y 6525350
+NAME "H‘frestrŒms AB"
+COMPANY "91"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "Mellerud"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna"
+ALOB 0
+
+X 1308180
+Y 6375870
+NAME "Hultapannan"
+COMPANY "92"
+INFO ""
+INFO2 ""
+ADDRESS "Hulta Berghem"
+POSTADDRESS "511 91 Skene"
+INFOSUPPLIER "lsf/Lotta Sahlin"
+MISC "Pannan"
+ALOB 0
+
+X 1312100
+Y 6395827
+NAME "Eliassons KŒtt"
+COMPANY "93"
+INFO ""
+INFO2 ""
+ADDRESS "Box 211"
+POSTADDRESS "511 22 Kinna"
+INFOSUPPLIER "lsf/Lotta Sahlin"
+MISC "Produktionen"
+ALOB 0
+
+X 1313360
+Y 6533000
+NAME "Tom Heurlin"
+COMPANY "94"
+INFO ""
+INFO2 ""
+ADDRESS "–nimskog"
+POSTADDRESS "662 00 –m‘l"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Bark 24000m3"
+ALOB 0
+
+X 1313970
+Y 6379830
+NAME "Kinnasand Textil"
+COMPANY "95"
+INFO ""
+INFO2 ""
+ADDRESS "Box 256"
+POSTADDRESS "511 80 Kinna"
+INFOSUPPLIER "lsf/Lotta Sahlin"
+MISC "Pannan"
+ALOB 0
+
+X 1314770
+Y 6380810
+NAME "Kasthall Prod"
+COMPANY "96"
+INFO ""
+INFO2 ""
+ADDRESS "Box 254"
+POSTADDRESS "511 23 Kinna"
+INFOSUPPLIER "lsf/Lotta Sahlin"
+MISC "Pannan"
+ALOB 0
+
+X 1315000
+Y 6377200
+NAME "Harry Zelander"
+COMPANY "97"
+INFO ""
+INFO2 ""
+ADDRESS "S‘gverksvÃgen"
+POSTADDRESS "511 92 Kinna"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Bark/*"
+ALOB 0
+
+X 1317950
+Y 6288350
+NAME "H landstk.panncent."
+COMPANY "98"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/JF"
+MISC "Panna"
+ALOB 0
+
+X 1319450
+Y 6284550
+NAME "Sydkraft"
+COMPANY "99"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "Halmstad"
+INFOSUPPLIER "lsf/JF"
+MISC "*"
+ALOB 0
+
+X 1320061
+Y 6284751
+NAME "Scanfuel"
+COMPANY "100"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "Halmstad"
+INFOSUPPLIER "lsf/BA"
+MISC " "
+ALOB 0
+
+X 1321250
+Y 6551750
+NAME "Samhall DalvÃst"
+COMPANY "101"
+INFO ""
+INFO2 ""
+ADDRESS "Box 24"
+POSTADDRESS "662 00 –m‘l"
+INFOSUPPLIER "lsf/Jonas Edin"
+MISC "Panna, Eo1 0.1%/*"
+ALOB 0
+
+X 1321480
+Y 6437080
+NAME "Tre KŒk Doggy"
+COMPANY "102"
+INFO ""
+INFO2 ""
+ADDRESS "Box 154"
+POSTADDRESS "447 00 V‘rg‘rda"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Eo1 & Eo5"
+ALOB 0
+
+X 1321500
+Y 6551600
+NAME "Electrolux –m‘l"
+COMPANY "103"
+INFO ""
+INFO2 ""
+ADDRESS "Box 127"
+POSTADDRESS "662 00 –m‘l"
+INFOSUPPLIER "lsf/Jonas Edin"
+MISC "Panna, WRD 0.5%/*"
+ALOB 0
+
+X 1322251
+Y 6400151
+NAME "Bor‘stapeter"
+COMPANY "104"
+INFO ""
+INFO2 ""
+ADDRESS "Box 1"
+POSTADDRESS "501 02 Bor‘s"
+INFOSUPPLIER "lsf/U Samuelsson"
+MISC "Panna, Eo1/*"
+ALOB 0
+
+X 1322311
+Y 6400401
+NAME "Viared 2"
+COMPANY "105"
+INFO ""
+INFO2 ""
+ADDRESS "Bor‘s Energi,Box 49"
+POSTADDRESS "501 02 Bor‘s"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Oljepanna/*"
+ALOB 0
+
+X 1322400
+Y 6288750
+NAME "H Kom Renh‘llning"
+COMPANY "106"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/BA"
+MISC ""
+ALOB 0
+
+X 1322430
+Y 6438080
+NAME "VÃstsvenska LantmÃn"
+COMPANY "107"
+INFO ""
+INFO2 ""
+ADDRESS "Box 93"
+POSTADDRESS "447 00 V‘rg‘rda"
+INFOSUPPLIER "lsf/Eva Bayard"
+MISC "Pannan"
+ALOB 0
+
+X 1323920
+Y 6402030
+NAME "Viared 1"
+COMPANY "108"
+INFO ""
+INFO2 ""
+ADDRESS "Bor‘s Energi,Box 49"
+POSTADDRESS "501 02 Bor‘s"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Oljepanna/*"
+ALOB 0
+
+X 1323950
+Y 6263310
+NAME "Henrikssons TrÃdg"
+COMPANY "109"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/MHN"
+MISC "Panna, Koks/Kol"
+ALOB 0
+
+X 1324100
+Y 6282540
+NAME "Pilkington"
+COMPANY "110"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/JF"
+MISC ""
+ALOB 0
+
+X 1325100
+Y 6262310
+NAME "Kragelund TrÃdg‘rd"
+COMPANY "111"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/MHN"
+MISC "Panna, Koks/Kol"
+ALOB 0
+
+X 1325250
+Y 6262270
+NAME "KP TrÃdg‘rds"
+COMPANY "112"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/MHN"
+MISC "Panna, Koks/Kol"
+ALOB 0
+
+X 1326401
+Y 6402900
+NAME "Statens Provanstalt"
+COMPANY "113"
+INFO ""
+INFO2 ""
+ADDRESS "Box 857"
+POSTADDRESS "501 15 Bor‘s"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Nafta, Eo1/*"
+ALOB 0
+
+X 1328651
+Y 6404061
+NAME "Rya Kraft"
+COMPANY "114"
+INFO ""
+INFO2 ""
+ADDRESS "Bor‘s Energi,Box 49"
+POSTADDRESS "501 02 Bor‘s"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Flis,Kol,Torv/*"
+ALOB 0
+
+X 1328820
+Y 6402100
+NAME "GŒta VÃrme"
+COMPANY "115"
+INFO ""
+INFO2 ""
+ADDRESS "Bor‘s Energi,Box 49"
+POSTADDRESS "501 02 Bor‘s"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Oljepanna/*"
+ALOB 0
+
+X 1330430
+Y 6406650
+NAME "SjŒbo VÃrme"
+COMPANY "116"
+INFO ""
+INFO2 ""
+ADDRESS "Bor‘s Energi,Box 49"
+POSTADDRESS "501 02 Bor‘s"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Oljepanna/*"
+ALOB 0
+
+X 1330880
+Y 6403000
+NAME "Lasarettet VÃrme"
+COMPANY "117"
+INFO ""
+INFO2 ""
+ADDRESS "Bor‘s Energi,Box 49"
+POSTADDRESS "501 02 Bor‘s"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Oljepanna/*"
+ALOB 0
+
+X 1331150
+Y 6402790
+NAME "Hulta VÃrme"
+COMPANY "118"
+INFO ""
+INFO2 ""
+ADDRESS "Bor‘s Energi,Box 49"
+POSTADDRESS "501 02 Bor‘s"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Oljepanna/*"
+ALOB 0
+
+X 1334300
+Y 6421300
+NAME "Anderssons S‘gverk"
+COMPANY "119"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "513 02 Borgstena"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Bark/Sp‘n/Kutter/*"
+ALOB 0
+
+X 1336500
+Y 6443050
+NAME "VÃstsv. Fotolab."
+COMPANY "120"
+INFO ""
+INFO2 ""
+ADDRESS "Box 80"
+POSTADDRESS "524 00 Herrljunga"
+INFOSUPPLIER "lsf/U Samuelsson"
+MISC "Panna, Eo1 0.1%/*"
+ALOB 0
+
+X 1338000
+Y 6443000
+NAME "Herrljunga S‘gverk"
+COMPANY "121"
+INFO ""
+INFO2 ""
+ADDRESS "Pl.5026"
+POSTADDRESS "524 00 Herrljunga"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, Bark"
+ALOB 0
+
+X 1338591
+Y 6377351
+NAME "Svenljunga VÃrme"
+COMPANY "122"
+INFO ""
+INFO2 ""
+ADDRESS "Box 201"
+POSTADDRESS "512 01 Svenljunga"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, flis/olja/*"
+ALOB 0
+
+X 1339351
+Y 6402901
+NAME "Almedahls-D"
+COMPANY "123"
+INFO ""
+INFO2 ""
+ADDRESS "Box 17"
+POSTADDRESS "516 00 DalsjŒfors"
+INFOSUPPLIER "lsf/Birgitta Olsson"
+MISC "–ngpanna,Eo5 0.6%/*"
+ALOB 0
+
+X 1343831
+Y 6322161
+NAME "Hylte Bruks AB"
+COMPANY "124"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS "Hylte"
+INFOSUPPLIER "lsf/BA"
+MISC "Lutpanna P1"
+ALOB 0
+
+X 1346650
+Y 6268700
+NAME "V‘rdcentral KnÃred"
+COMPANY "125"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS " "
+INFOSUPPLIER "lsf/MHN"
+MISC "Panna, Biobr/Olja"
+ALOB 0
+
+X 1347300
+Y 6268760
+NAME "Panncentral KnÃred"
+COMPANY "126"
+INFO ""
+INFO2 ""
+ADDRESS ""
+POSTADDRESS ""
+INFOSUPPLIER "lsf/MHN"
+MISC "Panna, Biobr/Gasol"
+ALOB 0
+
+X 1352101
+Y 6377301
+NAME "Jabo TrÃprodukter"
+COMPANY "127"
+INFO ""
+INFO2 ""
+ADDRESS "Box 201"
+POSTADDRESS "514 01 Tranemo"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna 1,bark/sp‘n/*"
+ALOB 0
+
+X 1353200
+Y 6382500
+NAME "Limmareds Skogar"
+COMPANY "128"
+INFO ""
+INFO2 ""
+ADDRESS "Box 48"
+POSTADDRESS "510 90 Limmared"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna,Bark 70000m3"
+ALOB 0
+
+X 1353250
+Y 6382250
+NAME "PLM-Limmared"
+COMPANY "129"
+INFO ""
+INFO2 ""
+ADDRESS "Box 93"
+POSTADDRESS "510 90 Limmared"
+INFOSUPPLIER "lsf/Sten Wolme"
+MISC "Glasugnar"
+ALOB 0
+
+X 1358450
+Y 6413880
+NAME "EBE EnergibrÃnsle"
+COMPANY "130"
+INFO ""
+INFO2 ""
+ADDRESS "Kvarngatan 22"
+POSTADDRESS "502 44 Bor‘s"
+INFOSUPPLIER "lsf/Mikael Sœld"
+MISC "TorkanlÃggningen"
+ALOB 0
+
+X 1359351
+Y 6416851
+NAME "Timmele FÃrgeri"
+COMPANY "131"
+INFO ""
+INFO2 ""
+ADDRESS "Box 2044"
+POSTADDRESS "Ulricehamn"
+INFOSUPPLIER "lsf/P-lÃn"
+MISC "Panna, olja/gasol/*"
+ALOB 0
+

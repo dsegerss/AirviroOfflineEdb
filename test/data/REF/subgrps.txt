@@ -1,0 +1,60 @@
+NAME "HC from car fuel "
+INDEX 3
+SUBSTANCES
+	3 	100 	0 	%
+	141 	4 	0 	%
+	142 	12 	0 	%
+	143 	13 	0 	%
+
+NAME "Chalmers_oil"
+INDEX 15
+SUBSTANCES
+	3 	0.100668 	0 	%
+	15 	0.400345 	0 	%
+
+NAME "Rosenlund_HP1-5_oil"
+INDEX 16
+SUBSTANCES
+	3 	0.1 	0 	%
+	15 	0.4 	0 	%
+
+NAME "Rosenlund_MT_gas"
+INDEX 17
+SUBSTANCES
+	3 	0.1 	0 	%
+
+NAME "Rosenlund_MT_oil"
+INDEX 18
+SUBSTANCES
+	3 	0.1 	0 	%
+	15 	0.4 	0 	%
+
+NAME "Rya_VC_gas"
+INDEX 19
+SUBSTANCES
+	3 	0.05 	0 	%
+
+NAME "Rya_VC_oil"
+INDEX 20
+SUBSTANCES
+	3 	0.05 	0 	%
+	15 	0.42 	0 	%
+
+NAME "SÌvenÌs_HP3_coal"
+INDEX 21
+SUBSTANCES
+	3 	0.1 	0 	%
+	15 	0.1 	0 	%
+
+NAME "SÌvenÌs_HVP1/P2_oil"
+INDEX 22
+SUBSTANCES
+	3 	0.1 	0 	%
+	15 	0.4 	0 	%
+
+NAME "SÌvenÌs_ÐP_coal"
+INDEX 23
+SUBSTANCES
+	3 	0.1 	0 	%
+	15 	0.6 	0 	%
+
