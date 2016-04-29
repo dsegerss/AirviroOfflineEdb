@@ -800,13 +800,34 @@ class RoadEditForm(BaseFeatureForm):
                 WHERE id=%i
                 """ % ts
             ).next()
-            
-            widget.ts_indices = [
-                ts_indices[key] for key in ts_indices.keys()
-                if key.startswith('situation') and ts_indices[key] is not None
-            ]
+            index_list = [ts_indices['id']]
+            for i in range(1, NO_TRAFFIC_SITUATION_COLS + 1):
+                if ts_indices['situation%i' % i] is not None:
+                    index_list.append(ts_indices['situation%i' % i])
+            widget.ts_indices = index_list
 
         widget.hide()
+
+    def update_traffic_situation(self, widget):
+        ts_indices = []
+        for i in range(1, NO_TRAFFIC_SITUATION_COLS):
+            combo = self.widgets['ts_combo_%i' % i].widget
+            if not combo.isVisible():
+                break
+            data = combo.itemData(combo.currentIndex())
+            if data is not None:
+                ts_indices.append(
+                    data
+                )
+            else:
+                ts_indices = None
+                break
+        if ts_indices is not None:
+            value = ' '.join(map(unicode, ts_indices))
+            self.widgets['traffic_situation'].widget.setText(value)
+        else:
+            self.widgets['traffic_situation'].widget.setText(None)
+
 
     def add_vehicle_to_table(self, vehicle_id, vehicle_name, tvar_id=None,
                              fraction=0.0, isheavy=0, istraffic=1):

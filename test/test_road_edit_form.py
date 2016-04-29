@@ -24,12 +24,13 @@ from utilities import get_qgis_app
 
 QGIS_APP = get_qgis_app()
 
+
 class RoadEditFormTest(unittest.TestCase):
     """Test road_edit_form works."""
 
     def setUp(self):
         """Runs before each test."""
-        self. = AirviroOfflineEdbDockWidget(None)
+        self.dockwidget = AirviroOfflineEdbDockWidget(None)
 
     def tearDown(self):
         """Runs after each test."""

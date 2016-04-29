@@ -17,7 +17,6 @@ import unittest
 from PyQt4.QtGui import QIcon
 
 
-
 class AirviroOfflineEdbDialogTest(unittest.TestCase):
     """Test rerources work."""
 

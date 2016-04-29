@@ -1,14 +1,12 @@
 # -*- coding: utf-8 -*-
 
 import abc
-import copy
 import re
 from functools import partial
 from collections import OrderedDict
 
 from qgis.core import QgsMessageLog
-from PyQt4 import QtGui
-from PyQt4 import QtCore
+from PyQt4 import QtGui, QtCore
 
 try:
     from pysqlite2 import dbapi2 as sqlite3

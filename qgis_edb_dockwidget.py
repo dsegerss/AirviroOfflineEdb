@@ -45,7 +45,7 @@ from PyQt4 import uic
 from PyQt4.QtCore import pyqtSignal
 from PyQt4.QtGui import QFileDialog, QDockWidget
 
-from pyAirviro.edb.edb import Edb, SerialEdb, is_complete_serial_edb
+# from pyAirviro.edb.edb import Edb, SerialEdb, is_serial_edb
 from pyAirviro.edb.sqliteapi import (
     connect,
     get_epsg,
